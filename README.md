@@ -2,8 +2,6 @@
 
 <img src="images/logo.png" alt="WebHost Logo">
 
-# ⚡ WebHost
-
 **Easily serve any local web project to the internet — instantly.**
 
 [![Install](https://img.shields.io/badge/Install-curl_%7C_bash-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)](#-installation)
