@@ -35,7 +35,7 @@ curl -sL https://github.com/Anon4You/WebHost/raw/main/install.sh | bash
 WebHost is a fully interactive tool. No arguments or config files needed—just run it:
 
 ```bash
-WebHost
+webhost
 ```
 
 1. **Select Server Type** — Choose between PHP, Python, or Node.js.
