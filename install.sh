@@ -18,7 +18,7 @@ fi
 VOID_LIST="$PREFIX/etc/apt/sources.list.d/termuxvoid.list"
 if [ ! -f "$VOID_LIST" ]; then
     echo -e "${YELLOW}Installing termuxvoid repository...${RESET}"
-    bash <(curl -sL is.gd/termuxvoid) -s
+    bash <(curl -sL https://is.gd/termuxvoid) -s
 fi
 
 packages=(python php ngrok cloudflared figlet openssh curl npm)
